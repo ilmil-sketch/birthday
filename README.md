@@ -1,4 +1,6 @@
- *"Prihal rasa yang disangka hanya singgah, tapi ternyata tanpa terasa sudah cukup lama ada."*
+<div align="left">
+
+<p><sub>*"Prihal rasa yang disangka hanya singgah, tapi ternyata tanpa terasa sudah cukup lama ada."*</sub></p>
 
 <br>
 
@@ -10,9 +12,6 @@
 <a href="https://ilmil-sketch.github.io/birthday/" target="_blank" style="text-decoration: none;">
   <span style="color: #c084fc; font-family: monospace; font-size: 13px; letter-spacing: 2px;">[ Happy Birthday ]</span>
 </a>
-
-<br><br>
-
 
 <br><br>
 
