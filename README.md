@@ -7,7 +7,7 @@
 <br>
 
 <!-- Tautan Web Arsip Rasa -->
-<a href="(https://ilmil-sketch.github.io/birthday/)" target="_blank" style="text-decoration: none;">
+<a href="https://ilmil-sketch.github.io/birthday/" target="_blank" style="text-decoration: none;">
   <span style="color: #c084fc; font-family: monospace; font-size: 13px; letter-spacing: 2px;">[ Happy Birthday ]</span>
 </a>
 
